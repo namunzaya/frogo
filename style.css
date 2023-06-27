@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    margin-top: 120px;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.hello {
+    color: darkgreen;
+    padding: 10px;
+    border: 2px solid darkgreen ;
+    border-radius: 100px;
+}
